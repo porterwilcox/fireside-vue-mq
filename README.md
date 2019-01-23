@@ -1,29 +1,11 @@
 # mq-vue
 
-## Project setup
+## Vue-MQ docs
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+https://www.npmjs.com/package/vue-mq
 ```
 
-### Compiles and minifies for production
+## Fireside
 ```
-npm run build
+Fireside featuring in template conditional rendering based off of view port size.
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
